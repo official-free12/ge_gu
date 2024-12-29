@@ -1,0 +1,6 @@
+# 个人免签码支付系统+app
+
+example.com。购买源码前有演示站的先测试演示站，没有演示站的可以联系客服咨询再下单！<br>example.com，请勿用于非法用途，不得违反国家法律，购买后用作他用，一切法律责任与本店无关！<br>example.com，不接受任何无理由退货，拒绝恶意退款，谢谢理解。有问题提前咨询客服。喜欢差评的请不要购买<br>example.com，所以都是亲测上架的，大部分都有演示站，请耐心测试演示站【程序若有bug或者文件缺陷会特别标注，】。<br>example.com，能访问前后台，如果需要对接支付充值、短信、APP、网站名称及图片修改设置等，另外协商费用。搭建前请买家提供宝塔后台进去搭建安装！<br><br>example.com。拍下即代表知晓、小本经营、谢谢大家支持理解。<br><br>各位老板你们好，购买源码前请通过微信、QQ联系客服问是否有演示站，或者是你们需要的具体功能，如添加QQ长时间没回复请发送右边的短信咨询，如未添加客服询问则代表你对这套程序认可，产品所有描述都于实际一样，不询问自己购买则代表你认同，源码具有复制性购买后将不退款、退货处理！感谢您的谅解。<br><br>祝各位老板旗开得胜，一路长虹！<br><br>此套系统适合用于个人由于tp框架比较低如需要运营则需要升级tp框架做个小整改 整体这套源码还是可以的，带有apk挂机，不提供apk源码，默认的已经足够使用，app里边没带任何广告，总体不错，这套有演示站，下单前联系客服索取演示站，看介绍图吧，我也不知道写什么介绍，就是真实就对了， QQ：.bRn_93,.bRn_62,.bRn_63,.bRn_32,.bRn_100,.bRn_71,.bRn_39,.bRn_29,.bRn_35,.bRn_34{display:none};983887720424926842741925090<br><br>10元安装费只是帮忙安装，不包含任何修改，即使logo等等这些东西都不包含在安装费用里边，望各位老板知熟，<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/y8XHm" style="color: red;">https://mega-file.org/y8XHm</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
